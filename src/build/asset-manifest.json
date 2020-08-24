@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8110fa67.chunk.css",
+    "main.js": "/static/js/main.9fcbf129.chunk.js",
+    "main.js.map": "/static/js/main.9fcbf129.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a106779c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a106779c.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.85cf5f0f.chunk.js": "/static/js/2.85cf5f0f.chunk.js",
+    "static/js/2.85cf5f0f.chunk.js.map": "/static/js/2.85cf5f0f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66ee380e8d6c31f87bb62e614cb3d918.js": "/precache-manifest.66ee380e8d6c31f87bb62e614cb3d918.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.8110fa67.chunk.css.map": "/static/css/main.8110fa67.chunk.css.map",
+    "static/js/2.85cf5f0f.chunk.js.LICENSE.txt": "/static/js/2.85cf5f0f.chunk.js.LICENSE.txt",
+    "static/media/Logo.ce56b96f.svg": "/static/media/Logo.ce56b96f.svg",
+    "static/media/android_icon.f023699b.svg": "/static/media/android_icon.f023699b.svg",
+    "static/media/App.css": "/static/media/bgabout.7ad7c11c.gif",
+    "static/media/copyright.789ede2c.svg": "/static/media/copyright.789ede2c.svg",
+    "static/media/database_icon.ee9d964e.svg": "/static/media/database_icon.ee9d964e.svg",
+    "static/media/dev_icon.ce241d14.svg": "/static/media/dev_icon.ce241d14.svg",
+    "static/media/email.71123323.svg": "/static/media/email.71123323.svg",
+    "static/media/flag.2be8f7bb.svg": "/static/media/flag.2be8f7bb.svg",
+    "static/media/frontida.png": "/static/media/frontida.803c466b.png",
+    "static/media/giithub.9eb3e87a.svg": "/static/media/giithub.9eb3e87a.svg",
+    "static/media/html_icon.96d1b810.svg": "/static/media/html_icon.96d1b810.svg",
+    "static/media/linkedin.84c69532.svg": "/static/media/linkedin.84c69532.svg",
+    "static/media/pencil_icon.412bc01a.svg": "/static/media/pencil_icon.412bc01a.svg",
+    "static/media/pic.png": "/static/media/pic.428f6806.png",
+    "static/media/tools_icon.b0c06641.svg": "/static/media/tools_icon.b0c06641.svg",
+    "static/media/vsco.1a4f88e3.svg": "/static/media/vsco.1a4f88e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a106779c.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.85cf5f0f.chunk.js",
+    "static/css/main.8110fa67.chunk.css",
+    "static/js/main.9fcbf129.chunk.js"
+  ]
+}
